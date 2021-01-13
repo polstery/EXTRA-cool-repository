@@ -3,7 +3,8 @@ ID ASG2
 
 # NAME OF WEBPAGE : TOILET TIME NEWS TOP HEADLINE FINDER (sg)
 
-WEB-LINK: (https://polstery.github.io/EXTRA-cool-repository/)
+WEB-LINK: https://polstery.github.io/EXTRA-cool-repository/
+VIDEO-LINK: https://youtu.be/dMyn7ET98DM
 
 It is a webpage accessible to everyone, where they can search for top news headlines based on 3 major sections: Entertainment, Health and Sports. In addition, they have quick reference for their poop related enquiries, when they are in the toilet.
  
